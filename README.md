@@ -7,3 +7,4 @@ Tested on Windows 10 x64 (1903)
  - https://zerosum0x0.blogspot.com/2017/04/doublepulsar-initial-smb-backdoor-ring.html
  - https://en.wikipedia.org/wiki/Portable_Executable#/media/File:Portable_Executable_32_bit_Structure_in_SVG_fixed.svg
  - https://github.com/corkami/docs/blob/master/PE/PE.md
+ - http://www.cse.yorku.ca/~oz/hash.html
